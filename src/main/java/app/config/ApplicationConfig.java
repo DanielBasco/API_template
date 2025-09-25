@@ -25,3 +25,4 @@ public class ApplicationConfig {
     public static void stopServer(Javalin app){
         app.stop();
     }
+}
